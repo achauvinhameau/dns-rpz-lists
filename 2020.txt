@@ -12,3 +12,16 @@ krasil-anthony.icu
 nicoledotson.icu
 samwinchester.club
 tatsumifoughtogre.club
+
+# various blacklist
+ghostery-collector.ghostery.com
+analytics.cliqz.com
+edatasales.com
+epicunitscan.info
+tracker.simplaex.net
+www.portaltv.tv
+detectportal.firefox.com
+use-application-dns.net
+tracking.overwolf.com	
+vstlsrv.com
+eulerian.net
