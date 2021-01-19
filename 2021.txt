@@ -1,3 +1,32 @@
+# 19/01/2021 
+## phishing urls
+ee-myservice.com
+webspacehostingproviders.com
+enewsup.com
+u1255235.cp.regruhosting.ru
+webmial.calcplane.ga
+prestige-art.ehost.tj
+auth-logon.zervl.com
+kertuoch.com
+getcandy.co.za
+staging.weblineindia.com
+messagerievocale-assistanceweb.webador.com
+e10126ee-e7d0-4dce-b1ea-ba1f5a733e82.id.repl.co
+mypcs-maj.servebbs.com
+login.orange.fr.mon-fr1.fr
+www.piovecosmetics.com
+qdqdqsd.hassyb.repl.co
+
+# 18/01/2021
+## Kremlin (suppress the whole domain)
+hesheflowershop.ru
+Bibigreen.ru
+
+americanexpresssx.com
+americanexpress-m.com
+americanexpresss0.com
+americanexpresss6.com
+
 # 14/jan/2021
 lorbhjawsirqc.pw
 blogaspot.com
