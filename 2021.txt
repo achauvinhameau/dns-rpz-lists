@@ -7,6 +7,9 @@ sign-in-secureintl-amazon.com
 unlocked-myaccount-amazonprime.com
 xmr-eu2.nanopool.org
 xmr.f2pool.com
+instagramconfirmed.com
+lnstagram-fr.com
+verify-page-lnstagram.com
 
 # 18/02/2021
 1j37.com
