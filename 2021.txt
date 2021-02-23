@@ -2,6 +2,10 @@
 comacast.net
 comcoast.com
 comfcast.com
+secure-amazonprime.com
+sign-in-secureintl-amazon.com
+unlocked-myaccount-amazonprime.com
+
 
 # 18/02/2021
 1j37.com
