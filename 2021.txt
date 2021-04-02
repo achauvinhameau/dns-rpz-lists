@@ -1,3 +1,22 @@
+# 02/04/2021
+paypal-safety.cards
+paypal-safety.center
+paypal-safety.insure
+paypal-safety.support
+paypal-security.cards
+paypal-security.center
+paypal-security.insure
+paypal-security.support
+paypal-verification.cards
+paypal-verification.center
+paypal-verification.insure
+paypal-verification.support
+netflix-payment.live
+netflix-subdomain-home.com
+netflix-subdomain-update.com
+netflix-suspend-subdomain.com
+netflix-suspension-webdomain.com
+
 # 12/03/2021
 amazoneorders.bid
 amazoneorders.biz
