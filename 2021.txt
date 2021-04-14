@@ -1,3 +1,11 @@
+# 14/04/2021
+paypal-safecenter.cards
+paypal-safecenter.insure
+paypal-securecenter.cards
+paypal-securecenter.insure
+paypal-verifycenter.cards
+paypal-verifycenter.insure
+
 # 06/04/2021
 apple-customersupports.com
 apple-inc-center.com
