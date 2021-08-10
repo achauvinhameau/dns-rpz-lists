@@ -1,3 +1,11 @@
+# 10/08/2021
+quwa-paf.servehttp.com
+ntc-pk.sytes.net
+nitb.pk-gov.org
+nccs.pk-gov.org
+dns1.pk-gov.org
+cert.pk-gov.org
+
 # 09/08/2021
 abouniteta.ru
 afternearde.ru
